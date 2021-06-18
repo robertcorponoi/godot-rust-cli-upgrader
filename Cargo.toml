@@ -9,7 +9,6 @@ readme = "README.md"
 homepage = "https://github.com/robertcorponoi/godot-rust-cli-upgrader/"
 repository = "https://github.com/robertcorponoi/godot-rust-cli-upgrader/"
 license = "MIT"
-license-file = "LICENSE"
 keywords = ["godot-rust-cli", "godot", "rust", "cli"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
